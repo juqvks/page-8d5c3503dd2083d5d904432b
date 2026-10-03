@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8281518286.ttedj.cn/sitemap.xml

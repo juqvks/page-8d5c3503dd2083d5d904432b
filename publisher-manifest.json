@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d8efc3e30218b24e1b9107d6",
+  "owner": "juqvks",
+  "repo": "page-8d5c3503dd2083d5d904432b",
+  "title": "菩提云(Bodhi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8d5c3503dd2083d5d904432b",
+      "a": "菩提云(Bodhi)",
+      "b": "",
+      "entity": "菩提云(Bodhi)",
+      "brand": "菩提云(Bodhi)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b52109533686e2e5ffb73ae4cacda1032464893320b4bb49c29146a022fca1e4",
+      "content": {
+        "keyword1": "菩提云(Bodhi)",
+        "keyword2": "",
+        "primary_entity": "菩提云(Bodhi)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "菩提云(Bodhi)官方网站提供稳定的VPN梯子与网络加速服务，覆盖多端加速器客户端下载、机场订阅导入说明及基础版至团队版套餐，助你安全高效访问全球网络。",
+          "AI_DESCRIPTION": "菩提云(Bodhi)官方网站提供稳定的VPN梯子与网络加速服务，覆盖多端加速器客户端下载、机场订阅导入说明及基础版至团队版套餐，助你安全高效访问全球网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F1E7;color:#1A2316;line-height:1.7;font-size:16px}img,svg{display:none}a{color:#1F5C3A;text-decoration:underline;word-break:break-word}a:focus{outline:2px solid #1F5C3A;outline-offset:2px}header,main,footer{width:100%;max-width:960px;margin:0 auto;padding:16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:12px;margin-bottom:8px}nav a{color:#143D27;text-decoration:none;font-size:14px;background:#E8F3EB;padding:6px 10px;border-radius:6px;border:1px solid #C5D5C8}h1{font-size:1.75rem;line-height:1.35;color:#143D27;margin:12px 0 16px}h2{font-size:1.32rem;color:#1F5C3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #C5D5C8}h3{font-size:1.08rem;color:#143D27;margin:16px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.2em}section{margin-bottom:8px;background:#FFFDF8;border:1px solid #D7E4D9;border-radius:10px;padding:16px}#hero{background:#E8F3EB;border-color:#1F5C3A}.muted{color:#4A5748;font-size:15px}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0}.card{flex:1 1 250px;background:#FFFDF8;border:1px solid #C5D5C8;border-radius:10px;padding:14px}.card.featured{flex:1 1 280px;background:#E8F3EB;border:2px solid #1F5C3A}.price{font-size:1.35rem;font-weight:700;color:#1F5C3A;margin:6px 0}.annual{font-size:14px;color:#4A5748;margin-bottom:8px}.badge{display:inline-block;background:#1F5C3A;color:#F6F1E7;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:6px}.btn{display:inline-block;margin-top:10px;background:#1F5C3A;color:#F6F1E7;text-decoration:none;padding:8px 14px;border-radius:6px;font-weight:600}details{border:1px solid #C5D5C8;border-radius:8px;padding:10px 12px;margin:8px 0;background:#FFFDF8}summary{font-weight:600;color:#143D27}details p{margin-top:8px;margin-bottom:4px}footer{color:#4A5748;font-size:14px}.adbox{border:1px dashed #1F5C3A;background:#E8F3EB;padding:12px;border-radius:8px;margin:12px 0}.links{display:flex;flex-wrap:wrap;gap:8px 16px}.links a{color:#1F5C3A}#sitemap ul{list-style:none;padding-left:0}#sitemap li{margin-bottom:6px}</style><header><p class=\"muted\">菩提云(Bodhi) · 官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section id=\"hero\"><h1>菩提云(Bodhi) 官方网络加速与客户端下载</h1><p>菩提云(Bodhi)是面向跨境协作、学习研究与日常网络加速的官方服务平台。本站集中提供机场订阅说明、多系统加速器客户端下载入口，以及可按流量与设备数选择的套餐，帮助你把连接步骤一次理清。</p><p>若你正在寻找稳定的 VPN 梯子、可导入的机场订阅，以及 Windows、macOS、Android、iOS 等客户端的官方下载指引，可直接从本页「客户端选择」与套餐卡片开始。</p><p><a class=\"btn\" href=\"#clients\">前往客户端选择</a> <a class=\"btn\" href=\"#plans\">查看套餐</a></p></section><section id=\"intro\"><h2>品牌简介</h2><p>菩提云取名自「菩提」所代表的清明与觉察，产品定位是把复杂的跨境网络访问收束成可执行的几步：获取订阅、下载客户端、导入配置、选择节点。作为菩提云官网，我们把套餐边界、设备数量、流量配额和线路类型写清楚，避免用户在多个镜像页之间反复寻找下载入口。</p><p>服务侧重点有三：其一是网络加速与链路稳定性，覆盖常规国际出口与 IPLC 专线游戏优化；其二是机场订阅的标准化，兼容主流 Clash、sing-box、Shadowrocket 等客户端；其三是多端同时在线，从个人三台设备到团队二十台设备可按档位扩展。旗舰版强调原生流媒体解锁与优先工单，团队版提供 VIP 高带宽节点与定制路由沟通通道。</p><h3>官方身份与使用边界</h3><p>本页为菩提云(Bodhi)官方网站内容页，下载与订阅说明均以页面锚点指引，不跳转来路不明的第三方打包站。请仅通过官网公布的客户端渠道安装，并在遵守所在地法律法规与目标网站服务条款的前提下使用网络加速能力。菩提云提供的是连接与加速工具，不代替你对访问内容负责。</p></section><section id=\"scenes\"><h2>使用场景</h2><p>菩提云机场订阅更适合需要固定流程、可重复导入的用户，而不是一次性试验。以下场景与套餐能力对应，便于你对照选择。</p><h3>跨境办公与远程会议</h3><p>海外文档、代码仓库、会议软件在高峰时段容易抖动。基础版可用普通线路完成邮件与网页协作；若你需要长时间视频会议或大仓库拉取，旗舰版的 IPLC 专线优化更合适。</p><h3>留学、学术资料与公开课</h3><p>论文数据库、公开课视频和预印本站点对延迟与解锁稳定性敏感。旗舰版标注全节点原生流媒体解锁，也更利于连续播放课件；团队实验室可直接看团队版的设备数与 1000GB 流量。</p><h3>流媒体与内容校对</h3><p>基础版解锁基础流媒体，适合偶尔点播；内容审核、多区目录校对或长期追剧，建议旗舰版，减少因公共出口被识别而导致的播放失败。</p><h3>游戏加速与实时对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对战与更新下载。团队版的 VIP 高带宽节点可分担多成员同时更新客户端资源的压力。</p><h3>小团队共用与设备分发</h3><p>工作室、跨境电商客服小组若需要统一订阅、分发到手机与电脑，可选用团队版：20 台同时在线、企业定制路由沟通和专属客户经理，减少各自为政的配置漂移。</p></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>菩提云强调先选客户端、再导入订阅。不同系统请使用对应加速器，避免把手机配置文件直接丢进不兼容的桌面内核。下列入口均为官网下载指引，链接指向本页说明锚点，安装包请以你账户面板内的最新构建为准。</p><div class=\"cards\"><article class=\"card\"><h3>Windows 客户端</h3><p>适合 Clash Meta 内核或 sing-box 图形前端。下载后导入订阅 URL，开启系统代理或 TUN。办公电脑建议关闭来路不明的第三方「一键加速」捆绑。</p><p><a class=\"btn\" href=\"#guide\">Windows 下载说明</a></p></article><article class=\"card featured\"><h3>macOS 客户端</h3><p>常用 ClashX.Meta、Surge 或 sing-box 图形版。系统版本较新时请授予网络扩展权限。本卡片为推荐阅读路径，导入后先测延迟再收藏节点。</p><p><a class=\"btn\" href=\"#guide\">macOS 下载说明</a></p></article><article class=\"card\"><h3>Android 客户端</h3><p>Clash Meta for Android 或兼容 sing-box 的前端即可。从官网说明进入，避免应用商店里名称近似的仿冒加速器。</p><p><a class=\"btn\" href=\"#guide\">Android 下载说明</a></p></article><article class=\"card\"><h3>iOS 客户端</h3><p>Shadowrocket、Stash、Quantumult X 等可直接粘贴菩提云机场订阅。TestFlight 或商店安装完成后，在配置页选择「订阅」而非手动逐条添加节点。</p><p><a class=\"btn\" href=\"#guide\">iOS 下载说明</a></p></article><article class=\"card\"><h3>Linux 与路由器</h3><p>命令行 sing-box / mihomo 适合长期挂起的网关。团队版可配合定制路由，把游戏主机与办公网段分开出站。</p><p><a class=\"btn\" href=\"#guide\">网关导入说明</a></p></article></div><p class=\"muted\">客户端选择原则：能自动更新订阅的优先于静态节点文件；能显示延迟与规则匹配的优先于纯系统 VPN 开关。菩提云 VPN 订阅更新后，请在客户端内执行一次强制刷新。</p></section><section id=\"guide\"><h2>操作说明</h2><p>以下流程覆盖从打开菩提云官网到成功加速的最短路径。每一步都可在本页内完成对照，无需额外表单。</p><h3>第一步：确认套餐与设备数量</h3><ol><li>打开「套餐方案」，核对每月流量、同时在线设备数和线路类型。</li><li>个人轻度浏览选基础版；流媒体与游戏选旗舰版；多人分发选团队版。</li><li>若按年付，基础版为 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，可降低月度沟通成本。</li></ol><h3>第二步：获取机场订阅</h3><ol><li>在账户中心复制通用订阅链接（Clash / sing-box 通常可自动识别）。</li><li>不要把订阅链接发到公开群或截图传播，链接泄露等于流量被共用。</li><li>如需分流规则，优先使用客户端默认规则，再按域名微调。</li></ol><h3>第三步：下载并安装加速器客户端</h3><ol><li>Windows：安装后允许防火墙通过核心程序，选择「系统代理」或「TUN 模式」。</li><li>macOS：安装网络扩展，首次连接时在系统设置中允许 VPN / 过滤器。</li><li>Android：授予 VPN 权限，建议关闭电池优化以免后台被杀。</li><li>iOS：粘贴订阅后点击更新，开启「增强模式」仅在需要全局时使用。</li><li>路由器：把订阅转为网关配置，避免每台终端重复登录。</li></ol><h3>第四步：导入、测速与日常使用</h3><ol><li>客户端选择「从 URL 导入」，粘贴菩提云订阅并命名为 Bodhi。</li><li>更新节点列表，按延迟排序，避开超时节点。</li><li>流媒体场景优先选择标注原生解锁的节点；游戏场景优先 IPLC 或低抖动专线。</li><li>连接成功后访问目标站点验证；若失败，切换节点或检查本地系统时间。</li><li>每月关注流量余量。基础版 100GB、旗舰版 300GB、团队版 1000GB，超额前预留更新与备份窗口。</li></ol><p>官方下载与导入说明的入口始终在本页「客户端选择」。若安装包校验码在账户面板有公示，请在安装前核对，防止被篡改的加速器替换。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>价格与配额如下，便于对照设备数和流量。旗舰版为大多数个人用户的默认推荐。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#guide\">按说明开通</a></p></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#clients\">先选客户端再开通</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#guide\">查看团队导入步骤</a></p></article></div><h3>节点与线路说明</h3><p>普通线路节点池面向网页、邮件与轻量 API；旗舰与团队可使用更高质量出口。IPLC 主要用于降低游戏与实时音视频的抖动，并不等同于无限带宽。流媒体解锁依赖节点原生出口，切换节点后请清空应用内地区缓存再试。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>菩提云(Bodhi)是什么？和普通 VPN 有何不同？</summary><p>菩提云是提供机场订阅与多端加速器接入的网络加速服务。相比单一地区的传统 VPN 客户端，订阅模式可以一次导入多条线路，由 Clash、sing-box、Shadowrocket 等客户端按规则分流。官网同时给出套餐配额与客户端选择，减少「只给一个安装包、却无法更新节点」的情况。</p></details><details><summary>如何在官网完成客户端下载？</summary><p>进入本页「客户端选择」，按 Windows、macOS、Android、iOS 或网关挑选对应说明，再使用账户面板中的官方构建。不要在搜索引擎广告或来源不明的网盘获取「菩提云加速器破解版」。安装后回到操作说明完成订阅导入，才算下载流程结束。</p></details><details><summary>机场订阅链接怎样导入到客户端？</summary><p>复制通用订阅 URL，在客户端选择从 URL / 订阅导入，名称可填 Bodhi。导入后手动更新一次，确认节点列表非空。iOS 需在配置页启用该订阅；桌面端需打开系统代理或 TUN。订阅泄露后应在账户侧重置链接，旧链接会继续消耗流量。</p></details><details><summary>基础版、旗舰版与团队版应该怎么选？</summary><p>3 台设备、每月约 100GB、以网页和基础流媒体为主，选基础版 ¥15/月。需要 5 台设备、300GB、原生流媒体与 IPLC 游戏优化，选旗舰版 ¥35/月。20 台设备、1000GB、VIP 高带宽与定制路由，选团队版 ¥85/月。按年付分别为 ¥150、¥350、¥850。</p></details><details><summary>菩提云支持哪些使用场景？</summary><p>典型场景包括跨境办公会议、留学与学术资料访问、流媒体校对、游戏加速，以及小团队统一分发配置。不适合把订阅公开分享，也不适合在明确禁止的网络环境中强行绕过管理策略。使用前请自行确认合法合规。</p></details><details><summary>连接失败或速度不稳时如何排查？</summary><p>依次检查：系统时间是否准确、客户端是否成功更新订阅、是否选中超时节点、本机防火墙是否拦截核心进程、流量是否已经用尽。流媒体失败时更换原生解锁节点并清理应用缓存。游戏抖动可改走 IPLC。若仍失败，旗舰版与团队版可通过优先工单或客户经理提交客户端日志（勿发送订阅明文）。</p></details><details><summary>多设备同时在线有什么限制？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。电脑、手机、平板、路由器都会占用会话。超过限额时新设备可能无法握手，需要在账户中下线闲置会话，或升级档位。路由器科学上网会让其下所有终端共享同一会话，需按实际拓扑计算。</p></details></section><section id=\"ads\"><h2>广告</h2><div class=\"adbox\"><p><strong>官网合作广告位</strong></p><p>菩提云(Bodhi)官方网站可展示与网络加速、客户端教程、跨境协作工具相关的文字合作信息。广告内容与套餐销售分离，不在此位置放置任何评分或用户评论模块。</p><p><a href=\"#intro\">了解品牌后再考虑合作</a></p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">广告</a></li><li><a href=\"#friends\">友情链接</a></li></ul></section><section id=\"friends\"><h2>友情链接</h2><div class=\"links\"><a href=\"#\">Clash 配置入门</a><a href=\"#\">sing-box 使用备忘</a><a href=\"#\">Shadowrocket 订阅说明</a><a href=\"#\">macOS 网络扩展指引</a><a href=\"#\">路由器网关分流笔记</a></div></section><p>菩提云(Bodhi)官方网站 · 网络加速与加速器客户端下载说明页</p><p>canonical：https://www.bodhiyun.com/</p></footer>",
+          "hash": "87a369719a8ed13eb298fc4d68539f1eff112b3e353b9243dbabc0d13e1f8805",
+          "seo": {
+            "title": "菩提云(Bodhi)官网 | VPN梯子网络加速与客户端下载",
+            "keywords": "菩提云,Bodhi,菩提云官网,菩提云VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官方下载",
+            "description": "菩提云(Bodhi)官方网站提供稳定的VPN梯子与网络加速服务，覆盖多端加速器客户端下载、机场订阅导入说明及基础版至团队版套餐，助你安全高效访问全球网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ttedj.cn",
+    "host": "p-8281518286.ttedj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ttedj.cn",
+      "url": "https://ttedj.cn/",
+      "label": "逸云(NETRON)",
+      "apex": "ttedj.cn",
+      "kind": null,
+      "identity": "mk5ajyye/page-58b24bec8dcd3768aaa14dc7"
+    },
+    {
+      "host": "7jx4gf.cn",
+      "url": "https://7jx4gf.cn/",
+      "label": "菩提云(Bodhi)",
+      "apex": "7jx4gf.cn",
+      "kind": null,
+      "identity": "csewppcad/page-68b45951bedb11b38d9a7eef"
+    },
+    {
+      "host": "86qiche.cn",
+      "url": "https://86qiche.cn/",
+      "label": "菩提云(Bodhi)",
+      "apex": "86qiche.cn",
+      "kind": null,
+      "identity": "kkhyjvctj/page-d441100070b5e82b3fbdd70e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aafc554c3b11f0f72d216d0f9ba7f63ebe50f5f3ac22e2c327133295ef945a73",
+    "sitemap.xml": "1d15f1fb30c33532d2b96a844fbb00e59f9bd14ef74c3de008e24037dd2cff74",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "da277a25ed5e8ccd28020f97558e6e67d297eb983420f59ae4883c4cae83d7b5",
+    "robots.txt": "8d3e47d1d39ee13c96a9b0dfcef325140e96e629250160f71274ace6713909c7",
+    "5d7d19605555d12a7d110c984db80d14.txt": "fe8ddf156f52b2f97a912f73211e194715a5351b49a9319392e2bb8919341097"
+  },
+  "revision": "d4dfe9baa0eb2dbb346f4571ac8484c1b1655a4b5808afc543cc23d688e51105"
+}
